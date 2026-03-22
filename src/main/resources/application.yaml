@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: docker
+  output:
+    ansi:
+      enabled: ALWAYS
+  threads:
+    virtual:
+      enabled: true
+  task:
+    execution:
+      mode: FORCE
+
