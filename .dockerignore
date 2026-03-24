@@ -1,0 +1,23 @@
+# Maven
+target/
+*.log
+
+# Git
+.git
+.gitignore
+
+# IDE
+.idea
+.vscode
+*.iml
+
+# Sistema
+.DS_Store
+
+# Ambiente
+.env
+.env.*
+
+# Docker
+Dockerfile*
+docker-compose.yml
